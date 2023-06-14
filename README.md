@@ -23,6 +23,7 @@ Lottery-application is designed as a web application using HTML, CSS, and JavaSc
 
 
 Lottery-application is a useful tool for all users, offering a convenient way to conduct random drawings and select winners effortlessly.
+![ezgif-5-a57fa02243](https://github.com/StefanLengyel/Lottery-application/assets/16822746/96118d05-7726-4677-92e3-d333118acfc4)
 
 ![image](https://github.com/StefanLengyel/Lottery-application/assets/16822746/dd9c6092-7687-43f2-a5fa-d6a9bbc0a421)
 Demo: https://lottery-application-three.vercel.app/
