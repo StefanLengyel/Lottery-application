@@ -19,7 +19,7 @@ Support for Projects and Commercial Use: Lottery-application is available to all
 
 
 <span style="color: orange;">Technical Requirements:</span>
-RandomDraw is designed as a web application using HTML, CSS, and JavaScript technologies. Its source code is freely available on the GitHub platform and can be modified and customized to suit individual needs. To ensure proper functionality, a modern web browser with support for these technologies is required.
+Lottery-application is designed as a web application using HTML, CSS, and JavaScript technologies. Its source code is freely available on the GitHub platform and can be modified and customized to suit individual needs. To ensure proper functionality, a modern web browser with support for these technologies is required.
 
 
 Lottery-application is a useful tool for all users, offering a convenient way to conduct random drawings and select winners effortlessly.
