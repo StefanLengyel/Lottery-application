@@ -5,14 +5,14 @@ Lottery-application is a free application designed for the GitHub platform that 
 
 Features:
 
-The application includes a text box where users can enter a list of names. Each name should be on a separate line.
-
-"START DRAWING" Button: Clicking this button initiates the random drawing process.
-
-"STOP" Button: Users can stop the drawing process at any time by clicking this button. Upon stopping, the random drawing will cease, and the first drawn name will be displayed in the winners' list.
-
-Winners' List: The application includes a list that displays the winners. After stopping the drawing, the first drawn name will be added to the winners' list and removed from the name list in the text box. This allows users to keep track of the winners and prevents selecting the same person repeatedly.
-
+-  The application includes a text box where users can enter a list of names. Each name should be on a separate line.
+      
+-  "START DRAWING" Button: Clicking this button initiates the random drawing process.
+      
+-  "STOP" Button: Users can stop the drawing process at any time by clicking this button. Upon stopping, the random drawing will cease, and the first drawn name will be displayed in the winners' list.
+      
+-  Winners' List: The application includes a list that displays the winners. After stopping the drawing, the first drawn name will be added to the winners' list and removed from the name list in the text box. This allows users to keep track of the winners and prevents selecting the same person repeatedly.
+      
 Support for Projects and Commercial Use: Lottery-application is available to all users and can be used for personal projects as well as commercial purposes. Users have the option to integrate this application into their projects or utilize it for organizing contests, raffles, and similar activities.
 
 Technical Requirements:
