@@ -4,7 +4,7 @@ Demo: https://lottery-application-three.vercel.app/
 Lottery-application is a free application designed for the GitHub platform that allows you to draw random names from a list entered in a text box. Its main purpose is to provide users with a simple and effective way to generate random winners based on a list of names.
 
 
-Features:
+## Features:
 
 -  The application includes a text box where users can enter a list of names. Each name should be on a separate line.
       
@@ -24,6 +24,5 @@ Lottery-application is designed as a web application using HTML, CSS, and JavaSc
 
 Lottery-application is a useful tool for all users, offering a convenient way to conduct random drawings and select winners effortlessly.
 
-
-![image](https://github.com/StefanLengyel/Lottery-application/assets/16822746/4088c232-4be8-48d5-a42a-4d79034b4ad2)
+![image](https://github.com/StefanLengyel/Lottery-application/assets/16822746/dd9c6092-7687-43f2-a5fa-d6a9bbc0a421)
 Demo: https://lottery-application-three.vercel.app/
