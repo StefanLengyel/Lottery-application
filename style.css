@@ -1,0 +1,59 @@
+body {
+    color: rgb(209, 217, 230);
+    background-color: rgb(33, 37, 41)
+}
+
+#name {
+    color: rgb(209, 217, 230)
+}
+
+#cas {
+    color: #ffa500;
+    font-weight: bold;
+    display: inline-block;
+    width: 80px
+}
+
+#datum {
+    color: #ffa500;
+    font-weight: bold;
+    display: inline-block;
+    width: 105px
+}
+
+.card {
+    min-height: 475px !important;
+    margin-bottom: 150px !important
+}
+
+textarea {
+    padding-top: 10px !important
+}
+
+.card-body,
+.names {
+    font-size: 1.2rem !important;
+    font-weight: 600
+}
+
+.card-header {
+    font-weight: 900
+}
+
+footer {
+    padding-top: 10px;
+    background-color: rgb(25, 28, 31)
+}
+
+.form-control::placeholder {
+    color: rgb(0, 0, 0) !important;
+    opacity: .4 !important
+}
+
+li {
+    border-bottom: solid 1px #cc9b076e
+}
+
+ol.picked-names {
+    text-align: left
+}
